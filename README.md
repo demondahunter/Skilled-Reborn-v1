@@ -1,7 +1,7 @@
 # Skilled-Reborn
 i added
 
-- NoSlow For Module Testing.
+- Speed (Bhop) for movement testing
 
 
 ☮ all credits to the skilled. ✌
