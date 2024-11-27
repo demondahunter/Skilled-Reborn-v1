@@ -1,8 +1,8 @@
 # Skilled-Reborn
 i added
 
-- Speed (Bhop) for movement testing
+- Speed (Bhop)
+- Scaffold (Not Completed) (various bugs)
 
 
-☮ all credits to the skilled. ✌
 im not a good dev but i will still try make client good
